@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Cory Quirk and I'm a full stack developer from Minneapolis, MN. 🌲🛶❄️  
+I'm a full stack developer from Minneapolis, MN. 🌲🛶❄️  
 --> [portfolio](https://coryjquirk.herokuapp.com/portfolio) <-- || [I'm looking for work!](https://www.linkedin.com/in/cory-quirk/)  
 ### Areas of interest
 * web development  
