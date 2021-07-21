@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello 👋
+My name is Cory Quirk and I'm a full stack developer from Minneapolis, MN. 🌲🛶❄️  
+--> [portfolio](https://coryjquirk.herokuapp.com/portfolio) <-- || [I'm looking for work!](https://www.linkedin.com/in/cory-quirk/)  
+### Areas of interest
+* web development  
+* cloud computing  
+* visual art & audio  
+* Internet of Things (IoT)  
 
-<!--
-**coryjquirk/coryjquirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coryjquirk&layout=compact&theme=react&langs_count=10&hide=sass)](https://github.com/anuraghazra/github-readme-stats)  
+(づ ◕‿◕ )づ
