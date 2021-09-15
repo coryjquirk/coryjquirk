@@ -1,6 +1,6 @@
 ### Hello 👋
 I'm a full stack developer from Minneapolis, MN. 🌲🛶❄️  
---> [portfolio](https://coryjquirk.herokuapp.com/portfolio) <-- || [I'm looking for work!](https://www.linkedin.com/in/cory-quirk/)  
+--> [blog/portfolio](https://coryjquirk.herokuapp.com/portfolio) <-- 
 ### Areas of interest
 * web development  
 * cloud computing  
