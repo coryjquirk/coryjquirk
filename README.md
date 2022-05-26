@@ -1,5 +1,5 @@
 Hello 👋 I'm a full stack developer from Minneapolis, MN.  
---> [blog/portfolio](https://coryjquirk.herokuapp.com/portfolio) <--   
+--> [blog/portfolio](https://coryjquirk.netlify.app/home) <--   
 
 🌲🛶❄️⛷️   
 ### Areas of interest
